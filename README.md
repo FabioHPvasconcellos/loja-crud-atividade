@@ -1,3 +1,6 @@
+ALUNO|FABIO VASCONCELLOS| RGM |11222100395
+ALUNO|MICAEL HUMBERTO |RGM  |  11222100580
+
 # 🛒 Projeto CRUD de Loja - Sistema de Gerenciamento de Produtos
 
 Este projeto implementa um sistema CRUD (Cadastro, Listagem, Consulta, Alteração e Exclusão) completo para gerenciamento de produtos, utilizando uma arquitetura moderna de microserviços e persistência de dados real.
