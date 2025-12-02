@@ -1,5 +1,7 @@
-| ALUNO | FABIO VASCONCELLOS | RGM |11222100395 |
-| ALUNO | MICAEL HUMBERTO |RGM  |  11222100580 |
+| ALUNO | RGM |
+| :--- | :--- |
+| **FABIO VASCONCELLOS** | 11222100395 |
+| **MICAEL HUMBERTO** | 11222100580 |
 
 # 🛒 Projeto CRUD de Loja - Sistema de Gerenciamento de Produtos
 
