@@ -45,8 +45,8 @@ O projeto é organizado seguindo o **Design Pattern em Camadas (Layered Architec
     ```
 3.  **Credenciais:** Abra o arquivo **`src/main/resources/application.properties`** e insira as credenciais corretas do seu usuário MySQL:
     ```properties
-    spring.datasource.username=SEU_USUARIO_AQUI
-    spring.datasource.password=SUA_SENHA_AQUI
+    spring.datasource.username=root
+    spring.datasource.password=
     server.port=8081 
     ```
 
